@@ -27,7 +27,7 @@ Si el usuario proporciona los siguientes datos:
 
 El programa calculará la duración aproximada de funcionamiento del aparato como:
 
-$1500 \text{ VA} \times 0.8 = 1200 \text{ Wh}$
+$\text{Conversión VA a Wh} = 1500 \text{ VA} \times 0.8 = 1200 \text{ Wh}$
 $\text{Duración} = 1200 \text{ Wh} \div 300 \text{ W} = 4 \text{horas}$
 
 Por lo tanto, el aparato podría funcionar aproximadamente 4 horas con esa configuración.
